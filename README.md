@@ -1,15 +1,15 @@
-#Web App controlling the Raspberry Pi
+# Web App controlling the Raspberry Pi
 
 The project was done as a preparatory course in my Master of Media Technology in Technical University, Ilmenau, Germany.
 
-##Milestones of Project Achieved:
+## Milestones of Project Achieved:
 
 • Understanding the hardware capabilities of Raspberry PI
 • Using SSH in configuring and managing the Raspberry Pi remotely
 •Used Python to complete the project, while working with libraries like opencv, numpy, RPi.GPIO, flask, gunicorn, picamera and others
 • HTML, CSS, Javascipt used for creating the frontend of the app
 
-##Three subtasks were achieved during the project
+## Three subtasks were achieved during the project
 
 • Using opencv library to detect different color ranges using picamera
 • Using step motor to control the rod moving using raspberry pi GPIO
